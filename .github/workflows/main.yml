@@ -2,7 +2,7 @@ name: html CI
 
 on:
   push:
-    branches: [ master ]
+    branches: [ keerti ]
 
 jobs:
   build:
